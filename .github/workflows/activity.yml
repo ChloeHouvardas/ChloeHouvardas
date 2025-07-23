@@ -1,0 +1,18 @@
+name: Update GitHub Activity
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # every 30 minutes
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with GitHub activity
+    runs-on: ubuntu-latest
+    steps:
+      - uses: jamesgeorge007/github-activity-readme@master
+        with:
+          GH_USERNAME: ChloeHouvardas
+          COMMIT_MSG: "⚡ Update README with recent activity"
+        env:
+          GH_TOKEN: ${{ secrets.GH_ACTOR_TOKEN }}
