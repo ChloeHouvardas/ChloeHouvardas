@@ -54,6 +54,12 @@ Artificial Intelligence • Web Development • Hackathon Builder
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ChloeHouvardas/ChloeHouvardas/output/pacman-contribution-graph.svg">
 </picture>
 
+<details>
+  <summary>View my contribution numbers</summary>
+  <br>
+  <a href="https://github.com/ChloeHouvardas">View my live contribution graph on GitHub</a>
+</details>
+
 
 ## Inspiration
 - https://github.com/Raymo111/Raymo111/blob/master/README.md
