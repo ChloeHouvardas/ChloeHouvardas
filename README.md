@@ -45,10 +45,17 @@ Artificial Intelligence • Web Development • Hackathon Builder
 
 ## 📊 GitHub Stats
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+## My Contribution Graph
+
+<!-- [pacman] -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChloeHouvardas/ChloeHouvardas/output/[game-name]-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChloeHouvardas/ChloeHouvardas/output/[game-name]-contribution-graph.svg">
+    <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/ChloeHouvardas/ChloeHouvardas/output/pacman-contribution-graph.svg">
+</picture>
 
 
 ## Inspiration
 - https://github.com/Raymo111/Raymo111/blob/master/README.md
 - https://github.com/jamesgeorge007/github-activity-readme
+- https://github.com/abozanona/pacman-contribution-graph/
